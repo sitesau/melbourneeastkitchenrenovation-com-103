@@ -1,0 +1,22 @@
+{
+  "wheel_id": 969,
+  "structure": "umbrella",
+  "slug": "melbourneeastkitchenrenovation-com-103",
+  "project": "kitchen-renovations-eastern-melbourne-what-to-expect-b7179f8f69",
+  "parent_t1_ref": "melbourneeastkitchenrenovation-com-151",
+  "node_role": "feeder",
+  "money_target": "melbourneeastkitchenrenovation.com.au",
+  "primary_kw": "kitchen renovations eastern melbourne what to expect",
+  "intended_url": "https://sites-e470-2.web.app/kitchen-renovations-eastern-melbourne-what-to-expect-b7179f8f69/",
+  "tier": "T2",
+  "writeback_nonce": "e6a0cd83085717e5",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/kitchen-renovations-eastern-melbourne-pros-and-cons-ecd0e7dbe41/",
+      "anchor": "this page",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "generic"
+    }
+  ]
+}
